@@ -1,0 +1,19 @@
+{
+  "name": "jsdev-layout",
+  "version": "0.0.1",
+  "author": {
+    "name": "Drake",
+    "email": "db12383@defenderdirect.com"
+  },
+  "devDependencies": {
+    "browserify": "^10.1.3",
+    "connect-livereload": "0.5.3",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "3.8.0",
+    "grunt-contrib-connect": "0.10.1",
+    "grunt-contrib-jasmine": "^0.8.2",
+    "grunt-contrib-uglify": "0.9.1",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-tslint": "2.2.0-beta"
+  }
+}
